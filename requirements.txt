@@ -1,0 +1,7 @@
+kiteconnect
+pandas
+yfinance
+matplotlib
+ta
+backtesting
+scipy
